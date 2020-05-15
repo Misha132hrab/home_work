@@ -10,7 +10,10 @@ let addresult = new Function('odun', 'dva', ' return odun + dva');
  let addresult = ( odun, dva) => odun + dva
 
 // 4. Створіть функцію яка приймає два аргументи, перший це обєкт другий це колбек.
-
+let fishLenght = function (arg1,arg2){
+    let firstPlate = {};
+    let secondPlate = function (cb)
+};  
 
 // 5. Створіть рекурсивну функцію.
 function showObjectKeyRecur (arg1){
